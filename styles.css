@@ -7,3 +7,10 @@ body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.text.pizza,
+.text.description,
+.text.ingredients,
+.text.steps {
+  color: #ff2e2e;
+}
