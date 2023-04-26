@@ -2,6 +2,7 @@ body {
   background-color: turquoise;
 }
 
-.title {
+.title,
+.text {
   text-align: center;
 }
