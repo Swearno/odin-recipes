@@ -14,3 +14,12 @@ body {
 .text.steps {
   color: #ff2e2e;
 }
+
+.text.pizza {
+  font-size: 35px;
+}
+
+.text.ingredients,
+.text.steps {
+  font-size: 24px;
+}
